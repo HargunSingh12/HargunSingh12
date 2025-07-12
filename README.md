@@ -27,5 +27,5 @@ DevOps:      Docker · Kafka · Prometheus · Grafana
 Tools:       Git · VS Code · Linux · Postman
 
 ---
-📫 Reach me at: [LinkedIn](https://linkedin.com/in/YOUR_HANDLE) · [Email](mailto:you@example.com)
+📫 Reach me at: [LinkedIn](https://www.linkedin.com/in/hargun-singh-5a650b285/)) · [Email](mailto:hargun199920@gmail.com)
 

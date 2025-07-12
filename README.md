@@ -1,8 +1,8 @@
 <h3 align="center">Welcome to my GitHub 👨‍💻</h3>
 # 👋 Hi, I'm Hargun Singh
 
-I'm a 3rd-year Computer Science student passionate about systems, backend, and developer tooling.  
-I like to build fast, scalable apps and explore low-level performance stuff. Currently exploring Rust, Web3, and DevOps tools.
+I'm a 3rd-year Computer Science student passionate about backend engineering, system design, and developer tooling.
+I love building robust, scalable applications using the MERN stack and Next.js. Currently exploring observability and monitoring tools like Prometheus, Grafana, and ELK, along with containerized workflows using Docker.
 
 ---
 

@@ -20,12 +20,18 @@ Here are some cool things I’ve built.
 ## 🛠️ Tech Stack
 
 ```text
-Languages:   C++ · JavaScript · Rust · Python  
-Frontend:    HTML · CSS · React.js  
-Backend:     Node.js · Express  
-DevOps:      Docker · Kafka · Prometheus · Grafana  
-Tools:       Git · VS Code · Linux · Postman
+## 🛠️ Tech Stack
+
+**Languages:** C++ · JavaScript · Rust · Python  
+**Frontend:** HTML · CSS · React.js  
+**Backend:** Node.js · Express  
+**DevOps:** Docker · Kafka · Prometheus · Grafana  
+**Tools:** Git · VS Code · Linux · Postman
 
 ---
-📫 Reach me at: [LinkedIn](https://www.linkedin.com/in/hargun-singh-5a650b285/)) · [Email](mailto:hargun199920@gmail.com)
+
+## 📫 Reach Me At
+
+[🔗 LinkedIn](https://www.linkedin.com/in/hargun-singh-5a650b285/) · [📧 Email](mailto:hargun199920@gmail.com)
+
 

@@ -25,7 +25,7 @@ Here are some cool things I’ve built.
 **Languages:** C++ · JavaScript · Rust · Python  
 **Frontend:** HTML · CSS · React.js  
 **Backend:** Node.js · Express  
-**DevOps:** Docker · Kafka · Prometheus · Grafana  
+**DevOps:** Docker · Grafana · Prometheus · Loki  
 **Tools:** Git · VS Code · Linux · Postman
 
 ---

@@ -22,7 +22,7 @@ Here are some cool things I’ve built.
 ```text
 ## 🛠️ Tech Stack
 
-**Languages:** C++ · JavaScript · Rust · Python  
+**Languages:** C++ · JavaScript · Java · Python  
 **Frontend:** HTML · CSS · React.js  
 **Backend:** Node.js · Express  
 **DevOps:** Docker · Grafana · Prometheus · Loki  

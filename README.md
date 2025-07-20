@@ -12,7 +12,7 @@ Twitter-Clone – A basic Twitter clone using JS.
 
 E-Commerce – Backend for an e-commerce platform.
 
-DevCodes – A full-fledged coding platform built with Next.js.
+DevCodes – Working on a full-fledged coding platform using Next.js.
 
 Tech Stack
 Languages: C++, JavaScript, Java, Python

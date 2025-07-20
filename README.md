@@ -3,6 +3,7 @@ Hi, I'm Hargun Singh
 I'm a third-year Computer Science student with a strong interest in backend engineering, system design, and developer tooling.
 I enjoy building reliable, scalable applications using the MERN stack and Next.js. Lately, I've been diving into observability and monitoring tools like Prometheus, Grafana, and the ELK stack, as well as containerized development with Docker.
 
+
 Here are a few things I’ve worked on:
 
 Product-Store – A simple e-commerce store built with JavaScript.

@@ -25,7 +25,6 @@ Get in Touch
 LinkedIn: https://www.linkedin.com/in/hargun-singh-5a650b285/
 Email: hargun199920@gmail.com
 
-![Profile Views](https://komarev.com/ghpvc/?username=hargunsingh_12
-)
+![Profile Views](https://komarev.com/ghpvc/?username=HargunSingh12)
 
 
